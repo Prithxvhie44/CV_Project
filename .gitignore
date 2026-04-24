@@ -1,0 +1,32 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Build and runtime artifacts
+artifacts/
+data/
+
+# Dataset and large binary assets
+dataset/
+*.pt
+*.pth
+*.onnx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
