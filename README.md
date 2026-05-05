@@ -99,3 +99,6 @@ Upload an image and view:
 - Clean plate text labels (remove inconsistent characters).
 - Evaluate frequently and tune confidence threshold in UI.
 - Use threshold calibration script after each major retrain.
+
+- <img width="1396" height="616" alt="image" src="https://github.com/user-attachments/assets/7a047314-9e2a-4aa2-a844-087b9bdcdc06" />
+
